@@ -1,2 +1,2 @@
-# Facultad-de-Inform-tica-UNLP-
-Temarios, teoría, prácticas y parciales vistos de la facultad.
+# Facultad de Informatica (UNLP)
+Temarios, teoría, prácticas y parciales desarrollados en la facultad.
